@@ -39,7 +39,7 @@ Underline2
 - [Esto es un link al index](index.html)
 
 # Imagenes
-![Logo GITHUB](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg3.s3wfg.com%2Fweb%2Fimg%2Fimages_uploaded%2Ff%2F1%2Fep_logo_de_github.jpg&imgrefurl=https%3A%2F%2Fwww.bolsamania.com%2Fnoticias%2Ftecnologia%2Fgithub-anuncia-la-adquisicion-de-la-plataforma-de-desarrollo-javascript-npm--7388283.html&tbnid=CmV-A4PmOOXOZM&vet=12ahUKEwjS2r3D-vLpAhX-QzABHeqOBK8QMygQegUIARDBAQ..i&docid=-3IWrJvm0Oen3M&w=800&h=414&q=logo%20github&ved=2ahUKEwjS2r3D-vLpAhX-QzABHeqOBK8QMygQegUIARDBAQ)
+![Logo GITHUB](https://www.trecebits.com/wp-content/uploads/2019/11/GITHUB.jpg)
 
 # Code Snipets
 Codigo en JSON
